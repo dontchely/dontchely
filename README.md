@@ -1,3 +1,5 @@
+
+
 ![logo](https://github.com/dontchely/dontchely/blob/main/senai-logo-3.png)
 
 **dontchely/dontchely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
+
+
+<a 
+href="https://github.com/dontchely/dontchely/blob/main/Profile.pdf" class="nav-link">**Curriculo**</a>
