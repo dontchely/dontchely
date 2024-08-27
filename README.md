@@ -18,7 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dontchely&show_icons=true&theme=dark)
 
-[![dontchely GitHub stats](https://github-readme-stats.vercel.app/api?username=dontchely )](https://github.com/dontchely/github-readme-stats)
+
 
 
 <a 
