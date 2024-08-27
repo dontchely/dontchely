@@ -16,6 +16,9 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
+[![dontchely GitHub stats](https://github-readme-stats.vercel.app/api?username=dontchely )](https://github.com/dontchely/github-readme-stats)
 
 
 <a 
@@ -27,3 +30,5 @@ href="https://github.com/dontchely/dontchely/blob/main/Profile.pdf" class="nav-l
  <img align="center" alt="html5" src=https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
+
+
